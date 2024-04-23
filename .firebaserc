@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "cicd-aa56d",
+    "hosting": "cicd-aa56d"
+  },
+  "targets": {},
+  "etags": {}
+}
